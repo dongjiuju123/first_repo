@@ -176,12 +176,12 @@
 	width:234px;
     margin-left: 20px;
 }
-#contact .p3{
+.p3{
 	color: #666666;
     font-size: 12px;
 	
 }
-#contact .p1{
+.p1{
 	background-color: rgb(219, 214, 214);
     width: 234px;
     height: 54px;
@@ -190,7 +190,7 @@
     font-size: 19px;
 	color:#000000;
 }
-#contact .p2{
+.p2{
 	background-color: rgb(219, 214, 214);
     width: 234px;
     height: 54px;
@@ -257,4 +257,171 @@
 {
 	text-align:center;
 	color:#FFF;
+}
+#school .h1{
+	color: black;
+    font-size: 20px;
+}
+#school .h2{
+	font-size: 16px;
+    color: #7F7F7F;
+    padding: 0px;
+}
+#school .right{
+	width:850px;
+	
+}
+#school .header{
+	padding-top: 52px;
+    padding-left: 52px;
+	height: 110px;
+}
+.center{
+	float:left;
+}
+#school .firstColumn{
+	width: 231px;
+	float:left;
+	margin-left: 20px;
+    margin-top: -18px;
+}
+#school .ri{
+	font-size: 13px;
+    color: #000000;
+}
+#school .shu{
+	font-size: 13px;
+    color: #000000;
+}
+#school .di{
+	color: #525252;
+    font-size: 11px;
+}
+#school .jj{
+	width: 200px;
+    text-align: center;
+}
+#school .jiao{
+    color: #525252;
+    font-size: 15px;
+}
+#school .second1{
+	 margin-top: 0px;
+}
+#school .secondColumn{
+	float: left;
+    width: 210PX;
+    margin-left:40px;
+}
+#school .kuang{
+	background-color:#CCCCCC;
+	width:150px;
+	height:35px;
+}
+#school .ru{
+	color: #000000;
+    font-size: 15px;
+	 
+}
+#school .er{
+	color: #525252;
+    font-size: 15px;
+
+	 
+}
+#school .ying{
+	color: #525252;
+    font-size: 10px;
+}
+#school_span{
+	color: #525252;
+    font-size: 15px;
+	height:35px;
+	width:100px;
+	border-bottom: 1px dashed #999999;
+}
+#school_span .te{
+	color:#000000;
+	font-size:11px;
+
+}
+#school .thirdColumn{
+	width: 200px;
+    float: left;
+    margin-left: 40px;
+}
+#school .zi{
+	color: #525252;
+    font-size: 12px;
+}
+#school .first{
+	width: 230px;
+    text-align: center;
+}
+#school .sp{
+	color: #000000;
+    font-size: 13px;
+	
+}
+#school .sp1{
+	color: #7F7F7F;
+    font-size: 14px;
+}
+#school .second{
+	width:200px;
+	text-align:center;
+}
+#school .yue{
+	color:#000000;
+	font-size:13px;
+}
+#school .hua{
+	color:#7F7F7F;
+	font-size:14px;
+}
+school .ru{
+	background-color:#CCC;
+	width:200px;
+	height:40px;
+}
+#works .h1{
+	color: #000000;
+    font-size: 20px;
+}
+#works .h2{
+	color: #7F7F7F;
+    font-size: 11px;
+}
+#works .right_header{
+    height: 150px;
+    margin-top: -10px;
+}
+#header{
+	padding-top: 50px;
+}
+#works .firstColumn{
+	float: left;
+    width: 220px;
+	margin-top: 15px;
+}
+#works .secondColumn{
+	float: left;
+    width: 220px;
+    margin-left: 60px;
+	margin-top: 15px;
+}
+#works .thirdColumn{
+	width: 210px;
+    float: left;
+    margin-left: 60px;
+	margin-top: 15px;
+}
+
+td{
+	vertical-align: top;
+    text-align: left;
+    heigh:20px;
+	width:50px;
+	color:#000000;
+	font-size:12px;
 }
