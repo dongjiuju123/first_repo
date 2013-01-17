@@ -1,0 +1,103 @@
+h1,h2,h3,ul{
+	margin:0;
+	padding:0;
+}
+.mainDiv{
+	width:1032px;
+	padding-left:33px;
+	margin:0 auto;
+}
+.left{
+	float:left;
+}
+.left_header{
+    width:140px;
+    padding: 20px 0px 20px 20px;
+    background-color:#000;
+    height:120px;
+    
+}
+.h3{
+    font-size:15px;
+    color:#FFF; 
+    padding:0px;
+    margin:0px 0 10px;
+}
+.h1{
+    font-size:23px;
+    color:#FFF; 
+    margin: 0 0 40px;
+}
+
+.h2{
+    font-size:20px;
+    color:#FFF;
+    padding:0px;
+}
+.left_center {
+    margin: 32px 0 20px;
+    width: 160px;
+}
+.navList {
+    width: 144px;
+    height: 33px;
+    line-height: 33px;
+    padding-left: 16px;
+    display: block;
+    list-style: none;
+    color: #000;
+    cursor: pointer;
+    font-size: 13px;
+    border: 1px solid #DDDDDD;
+    margin-top: -1px;
+}
+
+.navList a:link, .navList a:visited, .navList a:hover, .navList a:active {
+       text-decoration: none;
+       color: #000;
+}
+
+.navList .japan {
+       margin: 0 16px;
+       width: 61px;
+       text-align: justify;
+    }
+
+.navList .english {
+      color: #555555;
+      font-size: 10px;
+}
+
+.blogImage {
+    width: 160px;
+    height: 50px;
+    display: block;
+    margin: 22px 0 8px;
+}
+
+.goodImage {
+    width: 160px;
+    height: 58px;
+}
+.right{
+	overflow:hidden;
+	float:right;
+	width:818px;}
+.header{
+		height: 160px;
+}
+	
+.center{ overflow:hidden;
+float:left
+}
+.footer {
+    width: 960px;
+    height: 110px;
+    line-height: 110px;
+    color: #8B8080;
+    font-size: 8px;
+    border-bottom: 1px solid #DCDCDC;
+    border-top: 1px solid #DCDCDC;
+    margin: 50px 0 20px;
+	clear: both;
+}
