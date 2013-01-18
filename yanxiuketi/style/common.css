@@ -1,43 +1,52 @@
-h1,h2,h3,h4,ul{
-	margin:0;
-	padding:0;}
-.mainDiv{
-	width:1032px;
-	padding-left:33px;
-	margin:0 auto;
+﻿h1, h2, h3, h4, ul, p {
+    margin: 0;
+    padding: 0;
 }
-.left{
-	float:left;}
-.left_header{
-    width:140px;
+
+.mainDiv {
+    width: 1032px;
+    padding-left: 33px;
+    margin: 0 auto;
+}
+
+.left {
+    float: left;
+}
+
+.left_header {
+    width: 140px;
     padding: 20px 0px 20px 20px;
-    background-color:#000;
-    height:120px;
-    color:#FFFFFF;
+    background-color: #000;
+    height: 120px;
 }
-.h3{
-    font-size:15px;
-    color:#FFF; 
-    padding:0px;
-    margin:0px 0 10px;
+
+.ppp3 {
+    font-size: 15px;
+    color: #FFF;
+    padding: 0px;
+    margin: 0px 0 10px;
 }
-.h1{
-    font-size:23px;
-    color:#FFF; 
+
+.ppp1 {
+    font-size: 23px;
+    color: #FFF;
     margin: 0 0 40px;
 }
 
-.h2{
-    font-size:20px;
-    color:#FFF;
-    padding:0px;
+.ppp2 {
+    font-size: 18px;
+    color: #FFF;
+    padding: 0px;
+    font-family: 宋体;
 }
+
 .left_center {
     margin: 32px 0 20px;
     width: 160px;
 }
+
 .navList {
-    width: 160px;
+    width: 144px;
     height: 33px;
     line-height: 33px;
     padding-left: 16px;
@@ -51,19 +60,29 @@ h1,h2,h3,h4,ul{
 }
 
 .navList a:link, .navList a:visited, .navList a:hover, .navList a:active {
-       text-decoration: none;
-       color: #000;
+     text-decoration: none;
+     color: #000;
 }
 
 .navList .japan {
-       margin: 0 16px;
-       width: 61px;
-       text-align: justify;
-    }
+      margin: 0 16px;
+      width: 61px;
+      text-align: justify;
+}
 
 .navList .english {
-      color: #555555;
-      font-size: 10px;
+     color: #555555;
+     font-size: 10px;
+}
+
+.channelEnglish {
+    font-size: 20px;
+    color: #000000;
+}
+
+.channelJapanese {
+    font-size: 11px;
+    color: #7F7F7F;
 }
 
 .blogImage {
@@ -77,16 +96,23 @@ h1,h2,h3,h4,ul{
     width: 160px;
     height: 58px;
 }
-.right{
-	overflow:hidden;
-	float:right;
-	width:818px;}
-.header{
-		height: 160px;
+
+.right {
+    overflow: hidden;
+    float: right;
+    width: 818px;
 }
-	
-.center{ overflow:hidden;
+
+.header {
+    height: 100px;
+    padding-top: 60px;
 }
+
+.center {
+    overflow: hidden;
+    float: left;
+}
+
 .footer {
     width: 960px;
     height: 110px;
@@ -96,5 +122,5 @@ h1,h2,h3,h4,ul{
     border-bottom: 1px solid #DCDCDC;
     border-top: 1px solid #DCDCDC;
     margin: 50px 0 20px;
-	clear: both;
+    clear: both;
 }
